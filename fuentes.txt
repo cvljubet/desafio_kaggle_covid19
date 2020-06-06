@@ -1,0 +1,11 @@
+FUENTES
+
+banco mundial
+https://datacatalog.worldbank.org/
+
+https://www.worldometers.info/world-population/population-by-country/
+
+https://population.un.org/wpp/Download/Standard/CSV/
+
+Sitio especializado en bases de datos:
+http://data.un.org/Host.aspx?Content=About
